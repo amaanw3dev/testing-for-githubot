@@ -1,2 +1,2 @@
 # testing-for-githubot
-This repository itself does not contain code but it is used for testing the githubot app
+This repository itself does not contain code but it is used for testing the githubot app edited
